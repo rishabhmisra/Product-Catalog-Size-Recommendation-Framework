@@ -10,4 +10,11 @@ We also contributed two clothing fit datasets from [Modcloth](https://www.modclo
 * Download the datasets from [here](https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation).
 
 ## Publication
-If you use this code or the datasets, please consider citing: **Rishabh Misra, Mengting Wan, Julian McAuley, [Decomposing Fit Semantics for Product Size Recommendation in Metric Spaces](https://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18e.pdf), in Proc. of 2018 ACM Conference on Recommender Systems (RecSys’18), Vancouver, Canada, Oct. 2018.**
+If you use this code or the datasets, please cite the following: 
+```
+Decomposing Fit Semantics for Product Size Recommendation in Metric Spaces,
+by Rishabh Misra, Mengting Wan, Julian McAuley, 
+in Proc. of 2018 ACM Conference on Recommender Systems (RecSys’18), Vancouver, Canada, Oct. 2018
+```
+
+Citation format available [here](https://scholar.google.com/scholar?cluster=1205755019374674158&hl=en&as_sdt=2005#d=gs_cit&u=%2Fscholar%3Fq%3Dinfo%3A7sD4P82zuxAJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26scfhb%3D1%26hl%3Den):
